@@ -1,6 +1,5 @@
 ---
-title: OlympicLens
-emoji: 🏢
+title: Olympic-Lens
 colorFrom: blue
 colorTo: purple
 sdk: streamlit
